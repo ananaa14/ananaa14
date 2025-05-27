@@ -24,5 +24,13 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="right" alt="gif" height="150" width="150"
      src="https://s5.ezgif.com/tmp/ezgif-583df91d37f6ea.gif" />
-     </div>
+  </div>
+
+   <div> 
+   <a href = "mailto: anna.araujo7dev@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+
+ 
+
 
