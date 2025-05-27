@@ -28,6 +28,8 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   </div>
 
+  ![Sanke animation] ("https://github-readme-stats.vercel.app/api?username=ananaa14")
+
    <div> 
    <a href = "mailto: anna.araujo7dev@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
