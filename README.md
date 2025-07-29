@@ -12,7 +12,7 @@
     src="https://s5.ezgif.com/tmp/ezgif-583df91d37f6ea.gif" />
 </a>
   <img align="right" alt="gif" height="150" width="150"
-     src="https://s5.ezgif.com/tmp/ezgif-583df91d37f6ea.gif" />
+     src="" />
 </div>
 
 <div style="display: inline_block"><br>
